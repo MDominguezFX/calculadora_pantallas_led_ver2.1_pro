@@ -1,7 +1,7 @@
 # calculadora_pantallas_led_ver2.1_pro
 Version actualizada de la calculadora de pantallas led
 [LED_Calculator_v2_1_Simple_Fixed.html](https://github.com/user-attachments/files/21845317/LED_Calculator_v2_1_Simple_Fixed.html)
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8" />
