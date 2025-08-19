@@ -32,7 +32,7 @@
 <body>
   <div class="wrap">
     <h1>Calculadora de Pantallas LED <span style="color:#9fb1c7;font-weight:400;">— v2.1.3 Simple</span></h1>
-    <p class="muted">Watermark sin deformación • Tamaño de panel <b>dentro de un único módulo</b> • Plano legible • 500×1000 vertical • Tensión fija (220V mono / 380V tri).</p>
+    <p class="muted"> Calculoadora • Tamaño de pantalla  • Plano legible •  Tensión fija (220V mono / 380V tri).</p>
 
     <div class="card">
       <h3 style="margin:0 0 6px;">Entrada</h3>
