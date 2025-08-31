@@ -31,7 +31,7 @@
 </head>
 <body>
   <div class="wrap">
-    <h1>Calculadora de Pantallas LED <span style="color:#9fb1c7;font-weight:400;">— v2.1.3 Simple</span></h1>
+    <h1>Calculadora de Pantallas LED <span style="color:#9fb1c7;font-weight:400;">— v2.1.3 Pro </span></h1>
     <p class="muted"> Calculadora • Tamaño de pantalla  • Plano legible •  Tensión fija (220V mono / 380V tri).</p>
 
     <div class="card">
